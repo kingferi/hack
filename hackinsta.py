@@ -138,12 +138,6 @@ class Instabrute():
 os.system("clear")
 os.system("figlet INSTA H4CK3R")
 print
-print "Author    : Stephin-Franklin"
-print "YouTube   : https://www.youtube.com/AnonymousTim3"
-print "github    : https://github.com/Stephin-Franklin"
-print "Instagram : https://www.instagram.com/st1chb45h"
-print
-
 
 
 instabrute = Instabrute(Input('Please enter a username: '))
