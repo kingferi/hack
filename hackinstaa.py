@@ -140,6 +140,8 @@ os.system("figlet INSTA H4CK3R")
 print
 
 
+
+
 instabrute = Instabrute(Input('Please enter a username: '))
 
 try:
