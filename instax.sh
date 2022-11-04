@@ -209,7 +209,7 @@ done
 exit 1
 }
 
-case "$1" in --resume) resume ;; *
+case "$1" in --resume resume ;; *
 start
 bruteforcer
 esac
